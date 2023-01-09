@@ -27,7 +27,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hi5a&show_icons=true&theme=dark&locale=en" alt="hi5a" /></p>
 
-[![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=hi5a)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hi5a&" alt="hi5a" /></p>
 
@@ -36,5 +35,3 @@
 
 <a href="https://app.daily.dev/hi5a"><img src="https://api.daily.dev/devcards/56cdfd46daed4d56a55a3bcfd5b7d6d8.png?r=jz1" width="400" alt="Andrew's Dev Card"/></a>
 
-
-https://github-readme-stats.vercel.app/api?username=
