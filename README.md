@@ -27,6 +27,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hi5a&show_icons=true&theme=dark&locale=en" alt="hi5a" /></p>
 
+[![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=hi5a)](https://github.com/anuraghazra/github-readme-stats)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hi5a&" alt="hi5a" /></p>
 
 
