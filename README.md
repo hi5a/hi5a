@@ -23,9 +23,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/hi5a"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hi5a" /></a></p><br><br>
 
-<p><img align="left" src="(https://github-readme-stats.vercel.app/api?username=hi5a&show_icons=true&theme=dark&locale=en&layout=compact)" alt="hi5a" /></p>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hi5a)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hi5a&" alt="hi5a" /></p>
