@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hi5a" alt="hi5a" /></a> </p>
 
-- 🔭 I’m currently working on **ap computer science**
-
 - 👨‍💻 All of my projects are available at [github.com/hi5a](github.com/hi5a)
 
 - 📫 How to reach me **andrew@nordicgamelab.org**
