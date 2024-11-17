@@ -25,9 +25,3 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hi5a&" alt="hi5a" /></p>
-
-
-
-
-<a href="https://app.daily.dev/hi5a"><img src="https://api.daily.dev/devcards/56cdfd46daed4d56a55a3bcfd5b7d6d8.png?r=jz1" width="400" alt="Andrew's Dev Card"/></a>
-
