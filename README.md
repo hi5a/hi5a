@@ -25,3 +25,6 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hi5a&" alt="hi5a" /></p>
+
+# My Top languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hi5a&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
