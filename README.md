@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Andrew</h1>
-<h3 align="center">A passionate fullstack developer from the USA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hi5a&label=Profile%20views&color=0e75b6&style=flat" alt="hi5a" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hi5a" alt="hi5a" /></a> </p>
 
+<table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/hi5a/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/hi5a/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/hi5a/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
+
 - 👨‍💻 All of my projects are available at [github.com/hi5a](github.com/hi5a)
 
-- 📫 How to reach me **andrew@nordicgamelab.org**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
